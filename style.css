@@ -1,3 +1,36 @@
 body {
+  background-color: #4E87A6;
+}
+h2{
+font-size: 250%;
+  font-family: "Lucida Handwriting";
+}
+p{
+  font-size: 200%;
+  font-family: "Papyrus";
+}
+img{
+  width:400px;
+  border-color: #ffffff;
+  border-style: groove;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
 
+}
+li{
+ float: left; 
+  padding: 20px;
+  text-align: center;
+}
+li a{
+  padding: 20px;
+  color: #68C3D4;
+    text-decoration: none;
+  font-family: "Papyrus";
+  border: ridge;
+}
+li a:hover{
+  background-color: #134074;
 }
