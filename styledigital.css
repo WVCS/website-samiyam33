@@ -1,1 +1,17 @@
+body{
+  background-color:#2B9EB3;
+}
+h2{
+font-size: 270%;
+  font-family: "Trebuchet MS";
+}
+p{
+  font-size: 150%;
+  font-family: "Papyrus";
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+
+}
 
