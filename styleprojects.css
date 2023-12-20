@@ -1,0 +1,16 @@
+body{
+  background-color:#2F97C1;
+}
+h2{
+font-size: 270%;
+  font-family: "Papyrus";
+}
+p{
+  font-size: 150%;
+  font-family: "Papyrus";
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+
+}
