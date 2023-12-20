@@ -1,1 +1,17 @@
+body{
+  background-color: #7ebdc2;
+}
+h2{
+font-size: 270%;
+  font-family: "Courier New";
+}
+p{
+  font-size: 160%;
+  font-family: "Papyrus";
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+
+}
 
