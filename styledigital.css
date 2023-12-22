@@ -1,19 +1,27 @@
-body{
+body {
   background-color:#2B9EB3;
 }
-h2{
+h2 {
 font-size: 270%;
   font-family: "Trebuchet MS";
 }
-p{
+p {
   font-size: 150%;
   font-family: "Papyrus";
 }
-ul{
+ul {
   text-align: center;
   list-style-type: none;
-li{
-  font-size:150%
-  font-family: "Arial";
 }
-
+li {
+ float: left; 
+  padding: 20px;
+  text-align: center;
+}
+li a {
+  padding: 20px;
+  color: #68C3D4;
+    text-decoration: none;
+  font-family: "Papyrus";
+  border: ridge;
+}
