@@ -12,6 +12,19 @@ p{
 ul{
   text-align: center;
   list-style-type: none;
-
+li {
+ float: left; 
+  padding: 20px;
+  text-align: center;
+}
+li a {
+  padding: 20px;
+  color: #68C3D4;
+    text-decoration: none;
+  font-family: "Papyrus";
+  border: ridge;
+}
+li a:hover{
+  background-color: #134074;
 }
 
