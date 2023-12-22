@@ -12,6 +12,8 @@ p{
 ul{
   text-align: center;
   list-style-type: none;
-
+li{
+  font-size:150%
+  font-family: "Arial";
 }
 
