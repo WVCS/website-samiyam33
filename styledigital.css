@@ -25,3 +25,7 @@ li a {
   font-family: "Papyrus";
   border: ridge;
 }
+li a:hover{
+  background-color: #134074;
+}
+
